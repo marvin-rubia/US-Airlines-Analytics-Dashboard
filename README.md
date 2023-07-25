@@ -16,7 +16,7 @@ And here's a screenshot for the __Yearly Airline Delay Report__ for the same yea
 
 ![Dashboard_Type2](https://github.com/marvin-rubia/US-Domestic-Flights-Analytics-2005-to-2020/assets/140475770/82edc70e-749c-4caa-abd9-4e51dd9582ed)
 
-## The coding process: from data to the dashboard
+## The coding process: from data to dashboard
 You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. 
 
 ## I wrote an educational blog about this
