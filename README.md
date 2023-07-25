@@ -5,7 +5,7 @@ This is the final assignment of IBM's _Data Visualization with Python_ course.
 Using Plotly's Dash and Plotly Express, how can we create an interactive dashboard that reports the yearly performance and delays of US airlines? By having this analytics dashboard, we can improve the flight reliability of US airlines. And by doing so, we can enhance customer experience and satisfaction. 
 
 ## Plan 
-We are going to use the dataset (in .csv format) provided by IBM, which contains real data on US Domestic Flights from 1987 to 2020, taken from the US Bureau of Transportation Statistics. Then, we extract the 2005 to 2020 data (as per the course instruction) and visualize them in our dashboard.
+We are going to use the dataset (in .csv format) provided by IBM, which contains real data on US Domestic Flights from 1987 to 2020, taken from the US Bureau of Transportation Statistics. Then, we extract the 2005 to 2020 data (as per the course instruction) to visualize them in our dashboard.
 
 ## Expected dashboard
 Here's a screenshot of the dashboard for the __Yearly Airline Performance Report__ for 2009. 
