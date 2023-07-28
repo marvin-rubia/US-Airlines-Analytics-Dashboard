@@ -17,7 +17,7 @@ And here's a screenshot for the __Yearly Airline Delay Report__ for the same yea
 ![Final_Type2](https://github.com/marvin-rubia/US-Airlines-Analytics-Dashboard/assets/140475770/2cac03fb-6a54-41f0-a4c5-0ac3959c180b)
 
 ## The coding process: from data to dashboard
-You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. I recommend running the Jupyter Notebook on your local machine, so you can produce the dashboard and interact with its dropdowns and graphs. Just make sure you also download the airline_data.csv file. 
+You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. I recommend running the Jupyter Notebook on your local machine, so you can produce the dashboard and interact with its dropdowns and graphs.
 
 ## I wrote an educational blog about this
 If you want to see a friendly guide to accomplishing the task, check this article: [Here’s Your Guide to IBM’s “Data Visualization with Python” Final Assignment (or How to Code a Dashboard using Plotly Dash)](https://marvinrubia.medium.com/heres-your-guide-to-the-final-assignment-of-ibm-s-data-visualization-with-python-27505bea3d76).
