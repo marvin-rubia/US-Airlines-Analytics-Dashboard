@@ -1,4 +1,4 @@
-# US Domestic Airline Flights Analytics 2005 to 2020
+# US Domestic Airline Flights Analytics Dashboard 2005 to 2020
 This is the final assignment of IBM's _Data Visualization with Python_ course.
 
 ## Problem
