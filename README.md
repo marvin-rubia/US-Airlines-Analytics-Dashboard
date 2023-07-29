@@ -20,4 +20,4 @@ And here's a screenshot for the __Yearly Airline Delay Report__ for the same yea
 You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. I recommend running the Jupyter Notebook on your local machine, so you can produce the dashboard and interact with its dropdowns and graphs.
 
 ## I wrote an educational blog about this
-If you want to see a friendly guide to accomplishing the task, check this article: [Here’s Your Guide to IBM’s “Data Visualization with Python” Final Assignment (or How to Code a Dashboard using Plotly Dash)](https://marvinrubia.medium.com/heres-your-guide-to-the-final-assignment-of-ibm-s-data-visualization-with-python-27505bea3d76).
+If you want to see a friendly guide for this task, check this article: [Here’s Your Guide to IBM’s “Data Visualization with Python” Final Assignment (or How to Code a Dashboard using Plotly Dash)](https://marvinrubia.medium.com/heres-your-guide-to-the-final-assignment-of-ibm-s-data-visualization-with-python-27505bea3d76).
