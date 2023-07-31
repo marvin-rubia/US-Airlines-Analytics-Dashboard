@@ -10,14 +10,14 @@ We are going to use the dataset (in .csv format) provided by IBM, which contains
 ## Expected dashboard
 Here's a screenshot of my dashboard for the __Yearly Airline Performance Report__ for 2009. 
 
-![Final_Type1](https://github.com/marvin-rubia/US-Airlines-Analytics-Dashboard/assets/140475770/e3704bf4-573a-4b37-b09b-77dff65bf38b)
+![Type1_Wallpapered](https://github.com/marvin-rubia/US-Airlines-Analytics-Dashboard/assets/140475770/5a9e3814-1ea2-46a4-968d-90368b1e8e77)
 
 And here's a screenshot for the __Yearly Airline Delay Report__ for the same year. 
 
-![Final_Type2](https://github.com/marvin-rubia/US-Airlines-Analytics-Dashboard/assets/140475770/2cac03fb-6a54-41f0-a4c5-0ac3959c180b)
+![Type2_Wallpapered](https://github.com/marvin-rubia/US-Airlines-Analytics-Dashboard/assets/140475770/125eefdf-8476-40a4-ab66-272de56890ef)
 
 ## The coding process: from data to dashboard
 You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. I recommend running the Jupyter Notebook on your local machine, so you can produce the dashboard and interact with its dropdowns and graphs.
 
 ## I wrote an educational blog about this
-If you want to see a friendly guide for this task, check this article: [Here’s Your Guide to IBM’s “Data Visualization with Python” Final Assignment (or How to Code a Dashboard using Plotly Dash)](https://marvinrubia.medium.com/heres-your-guide-to-the-final-assignment-of-ibm-s-data-visualization-with-python-27505bea3d76).
+If you want to see a friendly guide for this task, check this article: [Adding a Background Image to a Dash’s Dashboard](https://marvinrubia.medium.com/adding-a-background-image-to-dashs-dashboard-41292ebe59be).
