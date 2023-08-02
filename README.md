@@ -20,4 +20,4 @@ And here's a screenshot for the __Yearly Airline Delay Report__ for the same yea
 You can check how I coded the dashboard in the uploaded Jupyter Notebook. You can view it here on GitHub or download it to run in your Jupyter environment. I recommend running the Jupyter Notebook on your local machine, so you can produce the dashboard and interact with its dropdowns and graphs.
 
 ## I wrote an educational blog about this
-If you want to see a friendly guide for this task, check this article: [Adding a Background Image to a Dash’s Dashboard](https://marvinrubia.medium.com/adding-a-background-image-to-dashs-dashboard-41292ebe59be).
+If you want to see a friendly guide for this task, check my blog here: [Adding a Background Image to a Dash’s Dashboard](https://marvinrubia.medium.com/adding-a-background-image-to-dashs-dashboard-41292ebe59be).
